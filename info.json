@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 274.33719999999994,
+    "videos": [
         "Casa Cumpian-EFVE8Y9STPA.mp4",
         "POR EL BIEN DE LOS DOS - CONJUNTO PRIMAVERA.mp4",
         "Chuy vega  Quedate Conmigo Esta Noche-LhhpljKu268.mp4",
@@ -29,7 +30,5 @@
         "Akaba Ya!!-MwY0pDTGHpY.mp4",
         "Fuego de Dios - Rojo-2Rl7JHHSBEs.mp4",
         "A Sinner Kissed An Angel ~ Bob Crosby & His Orchestra (1941)-BUua_3RSfnE.mp4"
-    ],
-    "id": "j2",
-    "total_size": 261.62843359375
+    ]
 }
