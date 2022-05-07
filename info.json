@@ -1,34 +1,141 @@
 {
     "available_space": true,
-    "total_size": 274.33719999999994,
-    "videos": [
-        "Casa Cumpian-EFVE8Y9STPA.mp4",
-        "POR EL BIEN DE LOS DOS - CONJUNTO PRIMAVERA.mp4",
-        "Chuy vega  Quedate Conmigo Esta Noche-LhhpljKu268.mp4",
-        "Chalino Sánchez - El Navegante (En Vivo)-r2l13TqRR-g.mp4",
-        "Conjunto Primavera   borracho y loco-x1-lJ9bpMp0.mp4",
-        "Conjunto Primavera Mi Mayor Fracaso-E-SiEgBEC5A.mp4",
-        "Chuy vega  Por Que Fue Que Te Ame-lj7RtT8WLg4.mp4",
-        "Con Saltos de Alegria Marcos Brunet con letra-6iRn6eX_NyM.mp4",
-        "Crass   Nagasaki Nightmare 1980-u2krsHnrxWI.mp4",
-        "Ángela Aguilar - En Realidad (Video Oficial)-sWjsLcmQzVI.mp4",
-        "Creedence Clearwater Revival - Up Around The Bend-BnRsaHXHznQ.mp4",
-        "CANNED HEAT - TIME WAS-blhBcjuOUAM.mp4",
-        "Chuy vega  La Baarca De Guaymas-LJBColzvaxE.mp4",
-        "Paper Lace - The Night Chicago Died (Subtítulos español)-duzttklWilE.mp4",
-        "Face to Face - Disconnected--SjfKXPMHLM.mp4",
-        "August Burns Red - Composure (Official Music Video)--nl_ttX031Y.mp4",
-        "A Los Inseguros-Xk5y3B3M8FY.mp4",
-        "Crass - Shaved Women-0Sieh9aokS0.mp4",
-        "Alton Ellis & Tupac - Nothin' Like Rocksteady-Mw_5bFYzM6s.mp4",
-        "El Palomito-X-gfnDx6Vzg.mp4",
-        "Andate - Todos Tus Muertos (Version Dale Aborigen)-ULVtoFtFyWU.mp4",
-        "Gloria Trevi - Ellas Soy Yo-S196X2NARB0.mp4",
-        "Soundjata-o-_KCj6xEu4.mp4",
-        "CHUY VEGA - AUNQUE TE ENAMORES-TOKV-RH5H20.mp4",
-        "Los Hnos Vega El Jorongo-BexJyDq8wU0.mp4",
-        "Akaba Ya!!-MwY0pDTGHpY.mp4",
-        "Fuego de Dios - Rojo-2Rl7JHHSBEs.mp4",
-        "A Sinner Kissed An Angel ~ Bob Crosby & His Orchestra (1941)-BUua_3RSfnE.mp4"
-    ]
+    "files": [
+        {
+            "name": "Casa Cumpian-EFVE8Y9STPA.mp4",
+            "path": "music_j2/videos/Casa Cumpian-EFVE8Y9STPA.mp4",
+            "size": 19.206607872000003
+        },
+        {
+            "name": "Chuy vega  Quedate Conmigo Esta Noche-LhhpljKu268.mp4",
+            "path": "music_j2/videos/Chuy vega  Quedate Conmigo Esta Noche-LhhpljKu268.mp4",
+            "size": 3.82127104
+        },
+        {
+            "name": "Chalino Sánchez - El Navegante (En Vivo)-r2l13TqRR-g.mp4",
+            "path": "music_j2/videos/Chalino Sánchez - El Navegante (En Vivo)-r2l13TqRR-g.mp4",
+            "size": 15.163441152
+        },
+        {
+            "name": "Conjunto Primavera   borracho y loco-x1-lJ9bpMp0.mp4",
+            "path": "music_j2/videos/Conjunto Primavera   borracho y loco-x1-lJ9bpMp0.mp4",
+            "size": 6.470775808
+        },
+        {
+            "name": "Conjunto Primavera Mi Mayor Fracaso-E-SiEgBEC5A.mp4",
+            "path": "music_j2/videos/Conjunto Primavera Mi Mayor Fracaso-E-SiEgBEC5A.mp4",
+            "size": 5.558104064
+        },
+        {
+            "name": "Chuy vega  Por Que Fue Que Te Ame-lj7RtT8WLg4.mp4",
+            "path": "music_j2/videos/Chuy vega  Por Que Fue Que Te Ame-lj7RtT8WLg4.mp4",
+            "size": 3.853438976
+        },
+        {
+            "name": "Con Saltos de Alegria Marcos Brunet con letra-6iRn6eX_NyM.mp4",
+            "path": "music_j2/videos/Con Saltos de Alegria Marcos Brunet con letra-6iRn6eX_NyM.mp4",
+            "size": 10.52120576
+        },
+        {
+            "name": "Crass   Nagasaki Nightmare 1980-u2krsHnrxWI.mp4",
+            "path": "music_j2/videos/Crass   Nagasaki Nightmare 1980-u2krsHnrxWI.mp4",
+            "size": 14.386532352000001
+        },
+        {
+            "name": "Ángela Aguilar - En Realidad (Video Oficial)-sWjsLcmQzVI.mp4",
+            "path": "music_j2/videos/Ángela Aguilar - En Realidad (Video Oficial)-sWjsLcmQzVI.mp4",
+            "size": 19.703714816
+        },
+        {
+            "name": "Creedence Clearwater Revival - Up Around The Bend-BnRsaHXHznQ.mp4",
+            "path": "music_j2/videos/Creedence Clearwater Revival - Up Around The Bend-BnRsaHXHznQ.mp4",
+            "size": 4.453874688
+        },
+        {
+            "name": "CANNED HEAT - TIME WAS-blhBcjuOUAM.mp4",
+            "path": "music_j2/videos/CANNED HEAT - TIME WAS-blhBcjuOUAM.mp4",
+            "size": 8.572935168
+        },
+        {
+            "name": "Chuy vega  La Baarca De Guaymas-LJBColzvaxE.mp4",
+            "path": "music_j2/videos/Chuy vega  La Baarca De Guaymas-LJBColzvaxE.mp4",
+            "size": 2.940264448
+        },
+        {
+            "name": "Face to Face - Disconnected--SjfKXPMHLM.mp4",
+            "path": "music_j2/videos/Face to Face - Disconnected--SjfKXPMHLM.mp4",
+            "size": 13.760388096000002
+        },
+        {
+            "name": "Paper Lace - The Night Chicago Died (Subtítulos español)-NPC7wVpoh_g.mp4",
+            "path": "music_j2/videos/Paper Lace - The Night Chicago Died (Subtítulos español)-NPC7wVpoh_g.mp4",
+            "size": 13.905342464
+        },
+        {
+            "name": "August Burns Red - Composure (Official Music Video)--nl_ttX031Y.mp4",
+            "path": "music_j2/videos/August Burns Red - Composure (Official Music Video)--nl_ttX031Y.mp4",
+            "size": 19.122267136
+        },
+        {
+            "name": "A Los Inseguros-Xk5y3B3M8FY.mp4",
+            "path": "music_j2/videos/A Los Inseguros-Xk5y3B3M8FY.mp4",
+            "size": 1.5614914560000002
+        },
+        {
+            "name": "Crass - Shaved Women-0Sieh9aokS0.mp4",
+            "path": "music_j2/videos/Crass - Shaved Women-0Sieh9aokS0.mp4",
+            "size": 4.800777216
+        },
+        {
+            "name": "Alton Ellis & Tupac - Nothin' Like Rocksteady-Mw_5bFYzM6s.mp4",
+            "path": "music_j2/videos/Alton Ellis & Tupac - Nothin' Like Rocksteady-Mw_5bFYzM6s.mp4",
+            "size": 11.113792512
+        },
+        {
+            "name": "El Palomito-X-gfnDx6Vzg.mp4",
+            "path": "music_j2/videos/El Palomito-X-gfnDx6Vzg.mp4",
+            "size": 5.440082944
+        },
+        {
+            "name": "Andate - Todos Tus Muertos (Version Dale Aborigen)-ULVtoFtFyWU.mp4",
+            "path": "music_j2/videos/Andate - Todos Tus Muertos (Version Dale Aborigen)-ULVtoFtFyWU.mp4",
+            "size": 9.656517632
+        },
+        {
+            "name": "Gloria Trevi - Ellas Soy Yo-S196X2NARB0.mp4",
+            "path": "music_j2/videos/Gloria Trevi - Ellas Soy Yo-S196X2NARB0.mp4",
+            "size": 20.26936832
+        },
+        {
+            "name": "Soundjata-o-_KCj6xEu4.mp4",
+            "path": "music_j2/videos/Soundjata-o-_KCj6xEu4.mp4",
+            "size": 16.939333632
+        },
+        {
+            "name": "CHUY VEGA - AUNQUE TE ENAMORES-TOKV-RH5H20.mp4",
+            "path": "music_j2/videos/CHUY VEGA - AUNQUE TE ENAMORES-TOKV-RH5H20.mp4",
+            "size": 4.9714462720000006
+        },
+        {
+            "name": "Los Hnos Vega El Jorongo-BexJyDq8wU0.mp4",
+            "path": "music_j2/videos/Los Hnos Vega El Jorongo-BexJyDq8wU0.mp4",
+            "size": 5.8462658560000005
+        },
+        {
+            "name": "Akaba Ya!!-MwY0pDTGHpY.mp4",
+            "path": "music_j2/videos/Akaba Ya!!-MwY0pDTGHpY.mp4",
+            "size": 3.4476236800000004
+        },
+        {
+            "name": "Fuego de Dios - Rojo-2Rl7JHHSBEs.mp4",
+            "path": "music_j2/videos/Fuego de Dios - Rojo-2Rl7JHHSBEs.mp4",
+            "size": 13.343505408
+        },
+        {
+            "name": "A Sinner Kissed An Angel ~ Bob Crosby & His Orchestra (1941)-BUua_3RSfnE.mp4",
+            "path": "music_j2/videos/A Sinner Kissed An Angel ~ Bob Crosby & His Orchestra (1941)-BUua_3RSfnE.mp4",
+            "size": 6.79757824
+        }
+    ],
+    "total_size": 265.62794700800004
 }
