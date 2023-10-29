@@ -51,6 +51,13 @@
             "url": "https://github.com/circuitalmynds/music_j2/blob/main/videos/Fuego de Dios - Rojo-2Rl7JHHSBEs.mp4?raw=true"
         },
         {
+            "id": "UQoZjjAAkQs",
+            "name": "A Fistful of Dollars Suite [UQoZjjAAkQs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j2/videos/A Fistful of Dollars Suite [UQoZjjAAkQs].mp4",
+            "size": 16.523965,
+            "url": "https://github.com/circuitalmynds/music_j2/blob/main/videos/A Fistful of Dollars Suite [UQoZjjAAkQs].mp4?raw=true"
+        },
+        {
             "id": "qm4rvI84Yfg",
             "name": "Ya zoo 1983 _LP Album-qm4rvI84Yfg.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j2/videos/Ya zoo 1983 _LP Album-qm4rvI84Yfg.mp4",
@@ -154,6 +161,13 @@
             "path": "/home/alanmatzumiya/Videos/container/j2/videos/Todos Tus Muertos - Adelita (Tu Alma Mia)-IpDMqlkfTqc.mp4",
             "size": 11.339983,
             "url": "https://github.com/circuitalmynds/music_j2/blob/main/videos/Todos Tus Muertos - Adelita (Tu Alma Mia)-IpDMqlkfTqc.mp4?raw=true"
+        },
+        {
+            "id": "kJrrVart2qc",
+            "name": "But Not For Me (Mono Mix) [kJrrVart2qc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j2/videos/But Not For Me (Mono Mix) [kJrrVart2qc].mp4",
+            "size": 12.3082,
+            "url": "https://github.com/circuitalmynds/music_j2/blob/main/videos/But Not For Me (Mono Mix) [kJrrVart2qc].mp4?raw=true"
         },
         {
             "id": "u2krsHnrxWI",
@@ -324,6 +338,13 @@
             "url": "https://github.com/circuitalmynds/music_j2/blob/main/videos/Los Suaves - No Puedo Dejar el Rock-4JQ6RiZRqOI.mp4?raw=true"
         },
         {
+            "id": "8bswKQI9iXM",
+            "name": "The Sleeping Beauty, Op. 66： Adagio - 'Pas d'action' [8bswKQI9iXM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j2/videos/The Sleeping Beauty, Op. 66： Adagio - 'Pas d'action' [8bswKQI9iXM].mp4",
+            "size": 8.852003999999999,
+            "url": "https://github.com/circuitalmynds/music_j2/blob/main/videos/The Sleeping Beauty, Op. 66： Adagio - 'Pas d'action' [8bswKQI9iXM].mp4?raw=true"
+        },
+        {
             "id": "rGeeziFMVKg",
             "name": "Georg Friedrich Händel (1685-1759) - Harpsichord Concerto Op 4 No 1 _Air with variations _ Suite No 7-rGeeziFMVKg.mp4",
             "path": "/home/alanmatzumiya/Videos/container/j2/videos/Georg Friedrich Händel (1685-1759) - Harpsichord Concerto Op 4 No 1 _Air with variations _ Suite No 7-rGeeziFMVKg.mp4",
@@ -343,7 +364,14 @@
             "path": "/home/alanmatzumiya/Videos/container/j2/videos/Akaba Ya!!-MwY0pDTGHpY.mp4",
             "size": 3.3668199999999997,
             "url": "https://github.com/circuitalmynds/music_j2/blob/main/videos/Akaba Ya!!-MwY0pDTGHpY.mp4?raw=true"
+        },
+        {
+            "id": "BQn6Qb-9mD8",
+            "name": "Latcho Drom - Taraf de Haidouks [BQn6Qb-9mD8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/j2/videos/Latcho Drom - Taraf de Haidouks [BQn6Qb-9mD8].mp4",
+            "size": 26.403945999999998,
+            "url": "https://github.com/circuitalmynds/music_j2/blob/main/videos/Latcho Drom - Taraf de Haidouks [BQn6Qb-9mD8].mp4?raw=true"
         }
     ],
-    "total_size": 885.3007169999997
+    "total_size": 949.3888319999998
 }
